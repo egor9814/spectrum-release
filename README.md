@@ -1,8 +1,8 @@
 # Spectrum — Страница распространения приложения
 
-## Версии
-[Последняя](spectrum-v0.9.8.apk)\
-[0.9.8](spectrum-v0.9.8.apk)
+## Скачать
+[Последняя версия](https://github.com/egor9814/spectrum-release/raw/refs/heads/main/spectrum-v0.9.8.apk)\
+[0.9.8](https://github.com/egor9814/spectrum-release/raw/refs/heads/main/spectrum-v0.9.8.apk)
 
 ## Инструкция
 
